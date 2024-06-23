@@ -1,0 +1,1 @@
+python compute.py -i 2121_He6_herm_1 -s 100 -o SPSA -e no -n Hlp -esti esti0 -tc TerminateLnFit10stepRel_A08

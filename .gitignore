@@ -1,0 +1,44 @@
+## ALl the untracked files 
+
+__pycache__/*
+Compute/__pycache__/*
+Developing/.ipynb_checkpoints/*
+Developing/compare.py
+
+Result/
+
+Compute/FakeBackends/fake_johor
+
+## ignoring all pycache
+Compute\FakeBackends\fake_johor_FJ001\__pycache__
+Compute\FakeBackends\fake_johor_FJ002\__pycache__
+Compute\FakeBackends\fake_johor_FJ003\__pycache__
+Compute\FakeBackends\fake_johor_FJ004\__pycache__
+Compute\FakeBackends\fake_johor_FJ005\__pycache__
+Compute\__pycache__
+*.pyc
+
+Developing/231218-Convergence_info_from_TerminationChecker.ipynb
+Developing/.ipynb_checkpoints/Resource Estimation Be8-checkpoint.ipynb
+Developing/.ipynb_checkpoints/Submitting job-checkpoint.ipynb      
+Developing/.ipynb_checkpoints/be9_be10_pairing-checkpoint.ipynb    
+Developing/.ipynb_checkpoints/test-checkpoint.ipynb
+Developing/.ipynb_checkpoints/txt_read-Copy1-checkpoint.ipynb      
+Developing/231203-statevector_sim.ipynb
+Developing/231211-LRPertb_sympy_series.ipynb
+Developing/231211-Statistic_Gen_for_Fakebackends.ipynb
+Developing/231212-CircuitGen.ipynb
+Developing/887_circuit.png
+Developing/Convergence_info_from_TerminationChecker.ipynb
+Developing/Evaluator.ipynb
+Developing/SPSA_LR_Pertb/
+Developing/Submitting job to ibm.ipynb
+Developing/Test2.ipynb
+Developing/circ_gen_He6.ipynb
+Developing/fake_johor-Fresh/
+Developing/fake_johor/
+Developing/np_hartree_fock.py
+Developing/occupation_numbers.ipynb
+Developing/unsorted/
+Developing/pauli_exp_eval.ipynb
+
