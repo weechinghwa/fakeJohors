@@ -13,4 +13,4 @@
 
 | Directory	    | Descriptions | 
 | - 		    | - 	   |
-| FakeBackends	    | Where FakeJohors of different specifications e defined. (modifications from FakeGuadalupe) |
+| FakeBackends	    | Where FakeJohors of different specifications are defined. (modifications from FakeGuadalupe) |
