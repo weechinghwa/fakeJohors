@@ -7,7 +7,7 @@
 | estimators.py     | QC simulators	| A list of QC simulators to be chosen from	| 
 | np_hartreefock.py | HF init state     | Custom Hartree Fock state                     |
 | obs.py	    | Observable Definition | Where Hamiltonian is defined, mapped into Pauli Strings |
-| ucc_trott.py      | Custom Ansatz     | Ansatz that allows Different ordering of Trotter decomposition |
+| ucc_trott.py      | Custom Ansatz     | Ansatz that allows Trotter decomposition of different orders |
 | utils.py          | Helper functions  | -                                             |
 | vqe.py            | VQE setup         | Modification of VQE will be done here         |
 
